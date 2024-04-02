@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "pd-sink")(type "KiCad")(uri "/home/abmue/Code/pico-projects/kicad-project-libs/pd-sink-controller-STUSB4500/STUSB4500QTR.kicad_sym")(options "")(descr ""))
+  (lib (name "usb-conn")(type "KiCad")(uri "/home/abmue/Code/pico-projects/kicad-project-libs/usb-c-power-connector-USB4125-GF-A-0190/2024-03-03_20-16-03.kicad_sym")(options "")(descr ""))
+  (lib (name "mosfet")(type "KiCad")(uri "/home/abmue/Code/pico-projects/kicad-project-libs/mosfet-p-DMG3415UFY4Q-7/DMG3415UFY4Q-7.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "boost-converter")(type "KiCad")(uri "/home/abmue/Code/pico-projects/kicad-project-libs/boost-converter-TPS61376RYHR/TPS61376RYHR.kicad_sym")(options "")(descr ""))
+  (lib (name "usbc-conn")(type "KiCad")(uri "/home/abmue/Code/pico-projects/kicad-project-libs/usb-c-power-connector-USB4125-GF-A-0190/2024-03-03_20-16-03.kicad_sym")(options "")(descr ""))
+  (lib (name "inductor")(type "KiCad")(uri "/home/abmue/Code/pico-projects/kicad-project-libs/inductor-XEL4030-472MEC/XEL4030-472MEC.kicad_sym")(options "")(descr ""))
+)
